@@ -1,4 +1,4 @@
-# Data-Skills-Tableau-
+# Data Skills in Tableau
 ## Projects for data skills using tableau
 ### Project 1
 This is the tableau dashboard that I created using the dataset that had information on the & job change in the United Kingdom which was supplied by Just IT. Once I imported the data into Tableau from excel I then went into my first sheet and creating a graph that used the sum of & change to the industry that this was in. I then created a second sheet and used that to calculate the change between the two tables that were in the dataset on the sum of change-change, I then used a sheet to create a map so that the data would show the geographical data of the areas that were most affected by these changes. The last step was to create a dashboard so that I could use all the data that had collected and so that I could show the correlation between the data and what I had find out.
