@@ -9,4 +9,5 @@ This is the tableau dashboard that I created using the dataset that I have on th
 
 This is another tableau dashboard that I created using a dataset that showed the information of what spotify music was being listened to. This was done by putting the dataset from excel into tableau and then created differnet visual aids like the graphs to determine what the correlation was between the dataset and the trends in the listening habits of the users on spotify. This was done by looking at the popularity, the tempo of the music and the duration of the music to see if there was a correlation between the different visual graphs and to come to a conclusion on the information that I obtained.
 
-<img width="990" height="1244" alt="image" src="https://github.com/user-attachments/assets/7ad887fc-5442-48a4-acf0-1fc176984775" />
+<img width="956" height="1150" alt="image" src="https://github.com/user-attachments/assets/e714a812-6f8d-4bc4-b183-7dff0d1878a5" />
+
